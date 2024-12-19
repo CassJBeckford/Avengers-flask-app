@@ -1,0 +1,8 @@
+.col-md-5 img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+hr {
+   background-color: rgb(133, 133, 133);
+}
