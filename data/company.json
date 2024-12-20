@@ -2,41 +2,49 @@
     {
       "name": "Tony Stark",
       "description": "Tony Stark is a genius inventor and billionaire industrialist, who suits up in his armor of cutting-edge technology to become the super hero Iron Man. The adopted son of weapons manufacturer Howard Stark, Tony inherited his family's company at a young age following his parents' death.[49] While overseeing a manufacturing plant in a foreign country, Stark was kidnapped by local terrorists. Instead of giving in to his captors' demands to build weapons for them, Stark created a powerful suit of armor for himself to escape.",
-      "image_source": "https://assets-prd.ignimgs.com/2022/09/21/im2022001-cov-1663730879078.jpg"
+      "image_source": "https://assets-prd.ignimgs.com/2022/09/21/im2022001-cov-1663730879078.jpg",
+      "url": "Tony"
     },
     {
       "name": "Steve Rogers",
       "description": "Cpt. Steven, Steven, Rogers a.k.a. Captain America, the First Avenger, was rejected by the U.S. Army during World War II due to numerous health problems. He ultimately volunteered for Project Rebirth where he received the Super-Soldier Serum developed by Dr. Abraham Erskine. The serum greatly enhanced his frail body to the peak of human physicality.",
-      "image_source": "https://cdn.marvel.com/u/prod/marvel/i/mg/3/90/676039c56aa81/portrait_uncanny.jpg"
+      "image_source": "https://cdn.marvel.com/u/prod/marvel/i/mg/3/90/676039c56aa81/portrait_uncanny.jpg",
+      "url": "Steve"
     },
     {
       "name": "Carol Danvers",
       "description": "Carol Danvers is a Human/Kree hybrid and a military warrior known as the high-flying super hero Captain Marvel. With no support from her authoritarian father, a young Danvers took to the sky in the Air Force by herself as a promising cadet, escalating to rank of colonel as an intelligence agent. Eventually, she was tasked to be a head of security at NASA when it was infiltrated by the Kree operative Captain Mar-Vell. Accidentally subjected to the Psyche-Magnitron machine, Danvers was imprinted with energy from Mar-Vell's Kree Nega-Bands, which triggered the manifestation of her mighty abilities.",
-      "image_source": "https://m.media-amazon.com/images/I/81-wifxOFKL._UF1000,1000_QL80_.jpg"
+      "image_source": "https://m.media-amazon.com/images/I/81-wifxOFKL._UF1000,1000_QL80_.jpg",
+      "url": "Carol"
     },
     {
       "name": "Wanda Maximoff",
       "description": "Wanda Maximoff, the Scarlet Witch, is a Romani witch and twin sister of the speedster Quicksilver. Once believed to have been mutant children of Magneto, the twins are in truth orphans enhanced by the High Evolutionary at Mount Wundagore in Transia. The Scarlet Witch became a conduit of chaos magic, allowing her to shift probabilities and warp reality itself by casting various hexes.",
-      "image_source": "https://m.media-amazon.com/images/I/811en+pZukL._AC_UF1000,1000_QL80_.jpg"
+      "image_source": "https://m.media-amazon.com/images/I/811en+pZukL._AC_UF1000,1000_QL80_.jpg",
+      "url": "Wanda"
     },
     {
       "name": "Steven Strange",
       "description": "Dr. Stephen Strange, M.D., a.k.a. Doctor Strange, was the Sorcerer Supreme for Earth-616. Strange was once a brilliant but arrogant Neurosurgeon, until a car accident crippled his hands. When modern medicine failed him, he embarked on a journey to Kamar-Taj in Tibet, where he was trained by the Ancient One. He healed his hands and learned more about Magic, eventually becoming a Master of the Mystic Arts.",
-      "image_source": "https://cdn.marvel.com/u/prod/marvel/i/mg/a/03/640905fe13486/clean.jpg"
+      "image_source": "https://cdn.marvel.com/u/prod/marvel/i/mg/a/03/640905fe13486/clean.jpg",
+      "url": "Steven"
     },
     {
       "name": "T'Challa",
       "description": "T'Challa a.k.a. the Black Panther was the Head of state of the African nation of Wakanda, the most technologically advanced country on Earth. In this role, he was the King/Chieftain, religious leader, and commander-in-chief all rolled into one. He is also considered among the top intellects in the world. Using Wakanda's advanced Vibranium technology and his own abilities and fortune, he pledged his life to the service of all humankind. He would go on to become a prominent member of the Avengers, and eventually become leader of the team.",
-      "image_source": "https://i.ebayimg.com/images/g/zWkAAOSwQyliBZxR/s-l1200.jpg"
+      "image_source": "https://i.ebayimg.com/images/g/zWkAAOSwQyliBZxR/s-l1200.jpg",
+      "url": "T'Challa"
     },
     {
       "name": "Jessica Drew",
       "description": "Jessica Drew, Spider-Woman, was born to Jonathan Drew and Miriam Drew. Experimented on by Hydra, she was sent to kill Nick Fury. After being shown the true nature of Hydra, she fled the scene and would later come back as a hero, bounty hunter, private investigator, and finally as a member of the Avengers.",
-      "image_source": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/03/607717d6a7319/portrait_uncanny.jpg"
+      "image_source": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/03/607717d6a7319/portrait_uncanny.jpg",
+      "url": "Jessica"
     },
     { 
       "name": "Thor Odinson",
       "description": "Thor is the God of Thunder, a member of the race known as the Asgardians, a group of humanoid beings from the pocket dimension of Asgard, the Realm Eternal. Thor is the son of Odin, the All-Father and King of Asgard. He was worshiped by the humans known as Vikings and became part of Norse mythology. Armed with his enchanted Uru hammer Mjolnir, which helps him to channel his godly energies, he became the mightiest warrior in the Ten Realms.",
-      "image_source": "https://m.media-amazon.com/images/I/91OWejDN1kL._UF1000,1000_QL80_.jpg"
+      "image_source": "https://m.media-amazon.com/images/I/91OWejDN1kL._UF1000,1000_QL80_.jpg",
+      "url": "Thor"
     }
   ]
